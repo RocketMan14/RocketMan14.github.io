@@ -5,9 +5,9 @@
   <subtitle>你想拥有什么，你就去追求什么!</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="https://rocketman14.github.io/"/>
   <updated>2018-03-07T09:50:27.000Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>https://rocketman14.github.io/</id>
   
   <author>
     <name>孙建超</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>文章测试</title>
-    <link href="http://yoursite.com/2018/03/07/%E6%B5%8B%E8%AF%95/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/"/>
-    <id>http://yoursite.com/2018/03/07/测试/测试文章/</id>
+    <link href="https://rocketman14.github.io/2018/03/07/%E6%B5%8B%E8%AF%95/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/"/>
+    <id>https://rocketman14.github.io/2018/03/07/测试/测试文章/</id>
     <published>2018-03-07T05:35:31.000Z</published>
     <updated>2018-03-07T09:50:27.000Z</updated>
     
@@ -27,14 +27,14 @@
     
     </summary>
     
-      <category term="测试" scheme="http://yoursite.com/categories/%E6%B5%8B%E8%AF%95/"/>
+      <category term="测试" scheme="https://rocketman14.github.io/categories/%E6%B5%8B%E8%AF%95/"/>
     
     
-      <category term="npm" scheme="http://yoursite.com/tags/npm/"/>
+      <category term="npm" scheme="https://rocketman14.github.io/tags/npm/"/>
     
-      <category term="hexo" scheme="http://yoursite.com/tags/hexo/"/>
+      <category term="hexo" scheme="https://rocketman14.github.io/tags/hexo/"/>
     
-      <category term="github" scheme="http://yoursite.com/tags/github/"/>
+      <category term="github" scheme="https://rocketman14.github.io/tags/github/"/>
     
   </entry>
   
