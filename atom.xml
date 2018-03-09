@@ -5,9 +5,9 @@
   <subtitle>你想拥有什么，你就去追求什么!</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="https://sunjianchao.github.io/"/>
-  <updated>2018-03-08T09:24:06.000Z</updated>
-  <id>https://sunjianchao.github.io/</id>
+  <link href="https://rocketman14.github.io/"/>
+  <updated>2018-03-08T09:24:11.000Z</updated>
+  <id>https://rocketman14.github.io/</id>
   
   <author>
     <name>孙建超</name>
@@ -18,38 +18,8 @@
   
   <entry>
     <title>文章测试</title>
-    <link href="https://sunjianchao.github.io/2018/03/08/%E6%B5%8B%E8%AF%95/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A02/"/>
-    <id>https://sunjianchao.github.io/2018/03/08/测试/测试文章2/</id>
-    <published>2018-03-08T05:35:31.000Z</published>
-    <updated>2018-03-08T09:24:06.000Z</updated>
-    
-    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><p>测试测试测试测试测试测试测试测试测试测试测试测试测试222222222</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;script src=&quot;/assets/js/APlayer.min.js&quot;&gt; &lt;/script&gt;&lt;p&gt;测试测试测试测试测试测试测试测试测试测试测试测试测试222222222&lt;/p&gt;
-
-      
-    
-    </summary>
-    
-      <category term="测试2" scheme="https://sunjianchao.github.io/categories/%E6%B5%8B%E8%AF%952/"/>
-    
-    
-      <category term="npm" scheme="https://sunjianchao.github.io/tags/npm/"/>
-    
-      <category term="hexo" scheme="https://sunjianchao.github.io/tags/hexo/"/>
-    
-      <category term="github" scheme="https://sunjianchao.github.io/tags/github/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>文章测试</title>
-    <link href="https://sunjianchao.github.io/2018/03/08/%E6%B5%8B%E8%AF%95/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A03/"/>
-    <id>https://sunjianchao.github.io/2018/03/08/测试/测试文章3/</id>
+    <link href="https://rocketman14.github.io/2018/03/08/%E6%B5%8B%E8%AF%95/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A03/"/>
+    <id>https://rocketman14.github.io/2018/03/08/测试/测试文章3/</id>
     <published>2018-03-08T05:35:31.000Z</published>
     <updated>2018-03-08T09:24:11.000Z</updated>
     
@@ -65,21 +35,21 @@
     
     </summary>
     
-      <category term="测试3" scheme="https://sunjianchao.github.io/categories/%E6%B5%8B%E8%AF%953/"/>
+      <category term="测试3" scheme="https://rocketman14.github.io/categories/%E6%B5%8B%E8%AF%953/"/>
     
     
-      <category term="npm" scheme="https://sunjianchao.github.io/tags/npm/"/>
+      <category term="npm" scheme="https://rocketman14.github.io/tags/npm/"/>
     
-      <category term="hexo" scheme="https://sunjianchao.github.io/tags/hexo/"/>
+      <category term="hexo" scheme="https://rocketman14.github.io/tags/hexo/"/>
     
-      <category term="github" scheme="https://sunjianchao.github.io/tags/github/"/>
+      <category term="github" scheme="https://rocketman14.github.io/tags/github/"/>
     
   </entry>
   
   <entry>
     <title>文章测试</title>
-    <link href="https://sunjianchao.github.io/2018/03/08/%E6%B5%8B%E8%AF%95/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A04/"/>
-    <id>https://sunjianchao.github.io/2018/03/08/测试/测试文章4/</id>
+    <link href="https://rocketman14.github.io/2018/03/08/%E6%B5%8B%E8%AF%95/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A04/"/>
+    <id>https://rocketman14.github.io/2018/03/08/测试/测试文章4/</id>
     <published>2018-03-08T05:35:31.000Z</published>
     <updated>2018-03-08T09:24:15.000Z</updated>
     
@@ -95,21 +65,21 @@
     
     </summary>
     
-      <category term="测试4" scheme="https://sunjianchao.github.io/categories/%E6%B5%8B%E8%AF%954/"/>
+      <category term="测试4" scheme="https://rocketman14.github.io/categories/%E6%B5%8B%E8%AF%954/"/>
     
     
-      <category term="npm" scheme="https://sunjianchao.github.io/tags/npm/"/>
+      <category term="npm" scheme="https://rocketman14.github.io/tags/npm/"/>
     
-      <category term="hexo" scheme="https://sunjianchao.github.io/tags/hexo/"/>
+      <category term="hexo" scheme="https://rocketman14.github.io/tags/hexo/"/>
     
-      <category term="github" scheme="https://sunjianchao.github.io/tags/github/"/>
+      <category term="github" scheme="https://rocketman14.github.io/tags/github/"/>
     
   </entry>
   
   <entry>
     <title>文章测试</title>
-    <link href="https://sunjianchao.github.io/2018/03/08/%E6%B5%8B%E8%AF%95/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A06/"/>
-    <id>https://sunjianchao.github.io/2018/03/08/测试/测试文章6/</id>
+    <link href="https://rocketman14.github.io/2018/03/08/%E6%B5%8B%E8%AF%95/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A06/"/>
+    <id>https://rocketman14.github.io/2018/03/08/测试/测试文章6/</id>
     <published>2018-03-08T05:35:31.000Z</published>
     <updated>2018-03-08T09:24:24.000Z</updated>
     
@@ -125,21 +95,21 @@
     
     </summary>
     
-      <category term="测试6" scheme="https://sunjianchao.github.io/categories/%E6%B5%8B%E8%AF%956/"/>
+      <category term="测试6" scheme="https://rocketman14.github.io/categories/%E6%B5%8B%E8%AF%956/"/>
     
     
-      <category term="npm" scheme="https://sunjianchao.github.io/tags/npm/"/>
+      <category term="npm" scheme="https://rocketman14.github.io/tags/npm/"/>
     
-      <category term="hexo" scheme="https://sunjianchao.github.io/tags/hexo/"/>
+      <category term="hexo" scheme="https://rocketman14.github.io/tags/hexo/"/>
     
-      <category term="github" scheme="https://sunjianchao.github.io/tags/github/"/>
+      <category term="github" scheme="https://rocketman14.github.io/tags/github/"/>
     
   </entry>
   
   <entry>
     <title>文章测试</title>
-    <link href="https://sunjianchao.github.io/2018/03/08/%E6%B5%8B%E8%AF%95/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A05/"/>
-    <id>https://sunjianchao.github.io/2018/03/08/测试/测试文章5/</id>
+    <link href="https://rocketman14.github.io/2018/03/08/%E6%B5%8B%E8%AF%95/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A05/"/>
+    <id>https://rocketman14.github.io/2018/03/08/测试/测试文章5/</id>
     <published>2018-03-08T05:35:31.000Z</published>
     <updated>2018-03-08T09:24:20.000Z</updated>
     
@@ -155,21 +125,51 @@
     
     </summary>
     
-      <category term="测试5" scheme="https://sunjianchao.github.io/categories/%E6%B5%8B%E8%AF%955/"/>
+      <category term="测试5" scheme="https://rocketman14.github.io/categories/%E6%B5%8B%E8%AF%955/"/>
     
     
-      <category term="npm" scheme="https://sunjianchao.github.io/tags/npm/"/>
+      <category term="npm" scheme="https://rocketman14.github.io/tags/npm/"/>
     
-      <category term="hexo" scheme="https://sunjianchao.github.io/tags/hexo/"/>
+      <category term="hexo" scheme="https://rocketman14.github.io/tags/hexo/"/>
     
-      <category term="github" scheme="https://sunjianchao.github.io/tags/github/"/>
+      <category term="github" scheme="https://rocketman14.github.io/tags/github/"/>
     
   </entry>
   
   <entry>
     <title>文章测试</title>
-    <link href="https://sunjianchao.github.io/2018/03/07/%E6%B5%8B%E8%AF%95/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/"/>
-    <id>https://sunjianchao.github.io/2018/03/07/测试/测试文章/</id>
+    <link href="https://rocketman14.github.io/2018/03/08/%E6%B5%8B%E8%AF%95/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A02/"/>
+    <id>https://rocketman14.github.io/2018/03/08/测试/测试文章2/</id>
+    <published>2018-03-08T05:35:31.000Z</published>
+    <updated>2018-03-08T09:24:06.000Z</updated>
+    
+    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><p>测试测试测试测试测试测试测试测试测试测试测试测试测试222222222</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;script src=&quot;/assets/js/APlayer.min.js&quot;&gt; &lt;/script&gt;&lt;p&gt;测试测试测试测试测试测试测试测试测试测试测试测试测试222222222&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+      <category term="测试2" scheme="https://rocketman14.github.io/categories/%E6%B5%8B%E8%AF%952/"/>
+    
+    
+      <category term="npm" scheme="https://rocketman14.github.io/tags/npm/"/>
+    
+      <category term="hexo" scheme="https://rocketman14.github.io/tags/hexo/"/>
+    
+      <category term="github" scheme="https://rocketman14.github.io/tags/github/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>文章测试</title>
+    <link href="https://rocketman14.github.io/2018/03/07/%E6%B5%8B%E8%AF%95/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/"/>
+    <id>https://rocketman14.github.io/2018/03/07/测试/测试文章/</id>
     <published>2018-03-07T05:35:31.000Z</published>
     <updated>2018-03-07T11:24:45.000Z</updated>
     
@@ -185,14 +185,14 @@
     
     </summary>
     
-      <category term="测试" scheme="https://sunjianchao.github.io/categories/%E6%B5%8B%E8%AF%95/"/>
+      <category term="测试" scheme="https://rocketman14.github.io/categories/%E6%B5%8B%E8%AF%95/"/>
     
     
-      <category term="npm" scheme="https://sunjianchao.github.io/tags/npm/"/>
+      <category term="npm" scheme="https://rocketman14.github.io/tags/npm/"/>
     
-      <category term="hexo" scheme="https://sunjianchao.github.io/tags/hexo/"/>
+      <category term="hexo" scheme="https://rocketman14.github.io/tags/hexo/"/>
     
-      <category term="github" scheme="https://sunjianchao.github.io/tags/github/"/>
+      <category term="github" scheme="https://rocketman14.github.io/tags/github/"/>
     
   </entry>
   
