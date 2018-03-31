@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://sunjianchao.top/"/>
-  <updated>2018-03-31T12:58:24.000Z</updated>
+  <updated>2018-03-31T13:01:38.000Z</updated>
   <id>http://sunjianchao.top/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://sunjianchao.top/2018/03/31/git/git/"/>
     <id>http://sunjianchao.top/2018/03/31/git/git/</id>
     <published>2018-03-31T12:32:53.000Z</published>
-    <updated>2018-03-31T12:58:24.000Z</updated>
+    <updated>2018-03-31T13:01:38.000Z</updated>
     
     <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><h1 id="Git-分支实践"><a href="#Git-分支实践" class="headerlink" title="Git 分支实践"></a><center>Git 分支实践</center></h1><blockquote><p>公司目前的代码管理用的是git,自己简单总结了下git常用的命令。</p></blockquote><p>##命令行总结<br>高手都是直接用命令行，用命令行显得逼格更高。</p><p>####用户信息<br>第一个要配置的是你个人的用户名称和电子邮件地址。这两条配置很重要，每次 Git 提交时都会引用这两条信息，说明是谁提交了更新，所以会随更新内容一起被永久纳入历史记录：</p><pre><code>git config --global user.name &quot;xxxx&quot; #用户名git config --global user.email &quot;xxxx@xxx.com&quot; #邮箱</code></pre><p>####检出仓库<br>    git clone git://github.com/jquery/git_learn.git</p><p>####查看分支<br>查看本地所有分支</p><pre><code>git branch</code></pre><p>查看远程所有分支</p><pre><code>git branch -r</code></pre><p>列出所有本地分支和远程分支</p><pre><code>git branch -a</code></pre><p>####创建本地 dev 分支<br>    git checkout -b dev<br>创建新分支dev并立即切换到新分支，相当于以下两条命令：</p><pre><code>git branch devgit checkout devgit checkout -b local-branchname origin/remote_branchname  </code></pre><p>  就可以将远程分支映射到本地命名为local-branchname 的一分支,如：<br>想从远程分支 dev （远程有该分支）创建本地分支 dev1：</p><pre><code>git checkout -b dev1 origin/dev</code></pre><p>####开发提交<br>add 文件</p><pre><code>git add README.md</code></pre><p>添加所有修改的文件</p><pre><code>git add .</code></pre><p>commit 本地提交</p><pre><code>git commit -m &quot;修改的内容&quot;</code></pre><p>将文件给推到服务器上</p><pre><code>git push -u origin master  </code></pre><p>####合并到本地 master 分支<br>合并到本地 master 分支<br>分支 dev 开发工作完成，我们就可以切换回本地 master 分支</p><pre><code>git checkout master</code></pre><p>进行本地分支 dev 合并</p><pre><code>git merge dev</code></pre><p>####删除本地分支<br>    git branch -d dev<br>-d选项只能删除已经参与了合并的分支，对于未有合并的分支是无法删除的。如果想强制删除一个分支，可以使用-D选项</p><pre><code>git branch -D dev</code></pre><p>####创建远程分支 dev<br>直接提交</p><pre><code>git push origin master:dev</code></pre><p>这里冒号可以提交到指定分支，上面命令，把提交本地 master 分支到远程的 dev 分支，远程没有dev这个分支，会创建。</p><pre><code>git push origin master</code></pre><p>这是本地 master 提交到远程主分支 master，相当于：</p><pre><code>git push origin master:master</code></pre><p>####删除远程分支<br>    git push origin –delete dev<br>或者</p><pre><code>git push origin :dev</code></pre><p>远程分支 dev 将被删除。</p><p>####删除一个文件<br>    git rm [file name] </p><p>####回到具体的版本<br>    git reflog 查看命令历史，以便回到具体的版本</p><pre><code>git reset --hard HEAD^ </code></pre><p>####git pull 和 git fetch 的区别<br>    git pull 本地与服务器端同步</p><pre><code>git fetch 相当于是从远程获取最新版本到本地，不会自动merge如：git fetch origin master(更新分支，未何并)git merge master</code></pre>]]></content>
     
