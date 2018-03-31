@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://sunjianchao.top/"/>
-  <updated>2018-03-16T05:23:36.000Z</updated>
+  <updated>2018-03-31T11:16:07.000Z</updated>
   <id>http://sunjianchao.top/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title></title>
+    <link href="http://sunjianchao.top/2018/03/31/git/git/"/>
+    <id>http://sunjianchao.top/2018/03/31/git/git/</id>
+    <published>2018-03-31T08:47:10.000Z</published>
+    <updated>2018-03-31T11:16:07.000Z</updated>
+    
+    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><p>#<center>Git 分支实践</center></p><blockquote><p>不過最需要強調的便是它的可讀性。一份使用 Markdown 格式撰寫的文件應該可以直接以純文字發佈，並且看起來不會像是由許多標籤或是格式指令所構成。</p></blockquote><p>##命令行总结<br>高手都是直接用命令行，用命令行显得逼格更高。</p><p>####查看分支<br>查看本地所有分支：<br>git branch<br>查看远程所有分支：<br>$ git branch -r<br>列出所有本地分支和远程分支：<br>$ git branch -a</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;script src=&quot;/assets/js/APlayer.min.js&quot;&gt; &lt;/script&gt;&lt;p&gt;#&lt;center&gt;Git 分支实践&lt;/center&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;不過最需要強調的便是它的可讀性。一份使用 Markdown 格式撰寫的文件應該可
+      
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>分享多张图片到微信朋友圈</title>
