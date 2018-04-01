@@ -102,7 +102,7 @@
 <meta property="og:site_name" content="Tony超的博客">
 <meta property="og:description" content="分享核心代码/**  *content: 朋友圈的文字内容  *uris: 图片的集合  */  private void shareToWX(Activity activity,String content, ArrayList&amp;lt;Uri&amp;gt; uris){     try {         Intent intent = new Intent();         Component">
 <meta property="og:locale" content="zh-Hans">
-<meta property="og:updated_time" content="2018-03-16T05:23:36.000Z">
+<meta property="og:updated_time" content="2018-04-01T02:31:44.000Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="分享多张图片到微信朋友圈">
 <meta name="twitter:description" content="分享核心代码/**  *content: 朋友圈的文字内容  *uris: 图片的集合  */  private void shareToWX(Activity activity,String content, ArrayList&amp;lt;Uri&amp;gt; uris){     try {         Intent intent = new Intent();         Component">
@@ -517,8 +517,9 @@ android:resource=&quot;@xml/file_provider_paths&quot; /&gt;
 引号里的内容可以随便填，建议填有意义的内容。
 path=&quot;path&quot;
 path属性的值表示共享的具体路径。注意：path属性里指定的是路径，而不是某个特定文件。这里不能指定为一个文件，也不能用通配符指定为一组文件
-</code></pre><p>###授权<br>    //临时授权<br>    intent.setFlags(FLAG_GRANT_READ_URI_PERMISSION 或 FLAG_GRANT_WRITE_URI_PERMISSION);</p>
-
+</code></pre><h3 id="授权"><a href="#授权" class="headerlink" title="授权"></a>授权</h3><pre><code>//临时授权
+intent.setFlags(FLAG_GRANT_READ_URI_PERMISSION 或 FLAG_GRANT_WRITE_URI_PERMISSION);
+</code></pre>
       
     </div>
     
@@ -747,7 +748,7 @@ var jiathis_config={
             
 
             
-              <div class="post-toc-content"><ol class="nav"><li class="nav-item nav-level-3"><a class="nav-link" href="#分享核心代码"><span class="nav-number">1.</span> <span class="nav-text">分享核心代码</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#7-0获取Uri代码"><span class="nav-number">2.</span> <span class="nav-text">7.0获取Uri代码</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#AndroidManifest-xml"><span class="nav-number">3.</span> <span class="nav-text">AndroidManifest.xml</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#file-provider-paths-xml-res目录下创建xml文件夹"><span class="nav-number">4.</span> <span class="nav-text">file_provider_paths.xml (res目录下创建xml文件夹)</span></a></li></ol></div>
+              <div class="post-toc-content"><ol class="nav"><li class="nav-item nav-level-3"><a class="nav-link" href="#分享核心代码"><span class="nav-number">1.</span> <span class="nav-text">分享核心代码</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#7-0获取Uri代码"><span class="nav-number">2.</span> <span class="nav-text">7.0获取Uri代码</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#AndroidManifest-xml"><span class="nav-number">3.</span> <span class="nav-text">AndroidManifest.xml</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#file-provider-paths-xml-res目录下创建xml文件夹"><span class="nav-number">4.</span> <span class="nav-text">file_provider_paths.xml (res目录下创建xml文件夹)</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#授权"><span class="nav-number">5.</span> <span class="nav-text">授权</span></a></li></ol></div>
             
 
           </div>
