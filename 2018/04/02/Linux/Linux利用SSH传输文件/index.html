@@ -102,7 +102,7 @@
 <meta property="og:site_name" content="Tony超的博客">
 <meta property="og:description" content="SSH是标准的网络协议，可用于大多数UNIX操作系统，能够实现字符界面的远程登录管理，它默认使用22号端口，采用密文的形式在网络中传输数据，相对于通过明文传输的Telnet，具有更高的安全性，在linux下一般用scp这个命令来通过ssh传输文件。">
 <meta property="og:locale" content="zh-Hans">
-<meta property="og:updated_time" content="2018-04-02T01:03:15.000Z">
+<meta property="og:updated_time" content="2018-04-02T01:08:59.000Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="&lt;font size=&quot;5&quot;&gt;Linux SCP 命令： 利用SSH传输文件&lt;&#x2F;font&gt;">
 <meta name="twitter:description" content="SSH是标准的网络协议，可用于大多数UNIX操作系统，能够实现字符界面的远程登录管理，它默认使用22号端口，采用密文的形式在网络中传输数据，相对于通过明文传输的Telnet，具有更高的安全性，在linux下一般用scp这个命令来通过ssh传输文件。">
@@ -459,7 +459,7 @@
 <p>SSH是标准的网络协议，可用于大多数UNIX操作系统，能够实现字符界面的远程登录管理，它默认使用22号端口，采用密文的形式在网络中传输数据，相对于通过明文传输的Telnet，具有更高的安全性，在linux下一般用scp这个命令来通过ssh传输文件。</p>
 </blockquote>
 <a id="more"></a>
-<h4 id="连接服务器"><a href="#连接服务器" class="headerlink" title="连接服务器"></a>连接服务器</h4><p>ssh 10.31.1.113 -l androiddev</p>
+<h4 id="连接服务器"><a href="#连接服务器" class="headerlink" title="连接服务器"></a>连接服务器</h4><p>ssh 192.168.0.101 -l androiddev</p>
 <h4 id="从服务器上下载文件"><a href="#从服务器上下载文件" class="headerlink" title="从服务器上下载文件"></a>从服务器上下载文件</h4><p>scp username@servername:/path/filename /var/www/local_dir（本地目录）</p>
 <p> 例如scp <a href="mailto:root@192.168.0.101" target="_blank" rel="noopener">root@192.168.0.101</a>:/var/www/test.txt  把192.168.0.101上的/var/www/test.txt 的文件下载到/var/www/local_dir（本地目录）</p>
 <h4 id="上传本地文件到服务器"><a href="#上传本地文件到服务器" class="headerlink" title="上传本地文件到服务器"></a>上传本地文件到服务器</h4><p>scp /path/filename username@servername:/path   </p>
